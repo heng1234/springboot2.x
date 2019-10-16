@@ -76,7 +76,7 @@ public class User {
 
 此时看idea显示
 
-![image-20191016173755725](/Users/kaifa/Library/Application Support/typora-user-images/image-20191016173755725.png)
+![image-20191016173755725](./booksimg//image-20191016173755725.png)
 
 方法自动生成了
 
@@ -121,6 +121,6 @@ http://localhost:7001/lombok/testLombok.html
 
 得出结果:
 
-![image-20191016173935901](/Users/kaifa/Library/Application Support/typora-user-images/image-20191016173935901.png)
+![image-20191016173935901](./booksimg/image-20191016173935901.png)
 
 项目地址:https://github.com/heng1234/springboot2.x
