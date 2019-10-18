@@ -3,7 +3,7 @@
     "description": "...",
     "extension": null,
     "generator": "site",
-    "title": "CSM GitBook",
+    "title": "CSM GitBook ",
     "variables": {},
     "links": {
         "sharing": {
@@ -74,15 +74,17 @@
             "edit": true
         },
         "tbfed-pagefooter": {
-            "copyright": "Copyright ©  2020",
+            "copyright": "Copyright ©  2020 java交流群:553997290",
             "modify_label": "时间：",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         },
         "donate": {
             "wechat": "./booksimg/pay.jpg",
+            "alipay": "./booksimg/apay.jpg",
             "title": "",
             "button": "赏",
-            "wechatText": "微信打赏"
+            "wechatText": "微信打赏",
+            "alipayText": "支付宝打赏"
         },
         "simple-page-toc": {
             "maxDepth": 3,
