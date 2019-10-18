@@ -1,0 +1,5 @@
+server:
+  port: 7000
+lv:
+  name: loren
+  password: 123456

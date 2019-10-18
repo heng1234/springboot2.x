@@ -1,0 +1,5 @@
+server:
+  port: 7002
+lv:
+  name: hlvy
+  password: 123456
