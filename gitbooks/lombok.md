@@ -125,4 +125,6 @@ http://localhost:7001/lombok/testLombok.html
 
 项目地址:https://github.com/heng1234/springboot2.x
 
-### [下一章:springboot集成lombok](lombok.md)
+------
+
+[下一章:springboot使用banner](banner.md)
