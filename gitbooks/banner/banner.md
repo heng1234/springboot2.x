@@ -88,7 +88,7 @@ ${spring-boot.formatted-version}
 
 然后启动springboot就会出现
 
-![image-20191017153846478](banner.assets/image-20191017153846478.png)
+![image-20191017153846478](../banner.assets/image-20191017153846478.png)
 
 [banner在线生成地址](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20)
 
@@ -100,13 +100,13 @@ ${spring-boot.formatted-version}
 
 例如，我们将一个如下的 jpeg 格式的微博 logo 改名为 banner.jpg 文件放到 resource 目录下
 
-![image-20191017155022991](banner.assets/image-20191017155022991.png)
+![image-20191017155022991](../banner.assets/image-20191017155022991.png)
 
 启动显示
 
 
 
-![image-20191017155051422](banner.assets/image-20191017155051422.png)
+![image-20191017155051422](../banner.assets/image-20191017155051422.png)
 
 ##### 
 
