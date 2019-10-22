@@ -8,4 +8,5 @@
   * [springboot读取配置文件](https://loren123.gitbook.io/hlvy/springboot-ji-chu-pei-zhi/pro)
   * [springboot访问路径配置和Profile配置说明](https://loren123.gitbook.io/hlvy/springboot-ji-chu-pei-zhi/webmvc)
 * [springboot集成mybatis(xml形式)](https://loren123.gitbook.io/hlvy/mybatis)
+* [springboot  AOP记录用户操作日志](https://loren123.gitbook.io/hlvy/aop)
 
