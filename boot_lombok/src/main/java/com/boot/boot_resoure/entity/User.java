@@ -16,8 +16,12 @@ import lombok.Data;
  */
 @Data
 public class User {
-
+    /**
+     * name
+     */
     private String name;
-
+    /**
+     * password
+     */
     private String password;
 }
