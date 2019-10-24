@@ -22,4 +22,11 @@ public class ThyeleafController {
         model.addAttribute("href","https://blog.csdn.net/qq_39313596/article/details/82147626");
         return "index";
     }
+
+
+    @RequestMapping("phone.do")
+    public String toPhone(HttpServletRequest request, String phone, Model model){
+        model.addAttribute("phone",phone);
+        return "phone";
+    }
 }
