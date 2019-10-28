@@ -10,4 +10,6 @@
 * [springboot集成mybatis(xml形式)](https://loren123.gitbook.io/hlvy/mybatis)
 * [springboot  AOP记录用户操作日志](https://loren123.gitbook.io/hlvy/aop)
 * [Spring Boot 使用thymeleaf](https://loren123.gitbook.io/hlvy/tf)
+* [SpringBoot整合Thymeleaf——自定义标签](https://loren123.gitbook.io/hlvy/customizetf)
+* [Spring Boot MyBatis配置Druid多数据源](https://loren123.gitbook.io/hlvy/datasource)
 
