@@ -1,4 +1,4 @@
-package com.boot.boot_demo.config;
+package com.boot.boot_redis.config;
 
 import com.fasterxml.jackson.annotation.JsonAutoDetect;
 import com.fasterxml.jackson.annotation.PropertyAccessor;
@@ -11,7 +11,7 @@ import org.springframework.data.redis.serializer.Jackson2JsonRedisSerializer;
 import org.springframework.data.redis.serializer.StringRedisSerializer;
 
 /**
- * @author : kaifa
+ * @author : hlvy
  * create at:  2019-10-14  11:33
  * @description: redis配置类
  */
