@@ -13,5 +13,5 @@
 * [SpringBoot整合Thymeleaf——自定义标签](https://loren123.gitbook.io/hlvy/customizetf)
 * [Spring Boot MyBatis配置Druid多数据源](https://loren123.gitbook.io/hlvy/datasource)
 * [Spring Boot 使用redis缓存](https://loren123.gitbook.io/hlvy/redis)
-* [Spring Boot ehcache](https://loren123.gitbook.io/hlvy/ehcache)
+* [Spring Boot ehcache](https://loren123.gitbook.io/hlvy/cache)
 
