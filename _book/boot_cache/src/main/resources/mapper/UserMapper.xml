@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.boot.boot_cache.mapper.UserMapper">
+    <update id="updateUser" parameterType="com.boot.boot_cache.entity.User">
+      update T_USER
+      <set>
+          <if test="userName != null and userName != ''">
+              USERNAME = #{userName},
+          </if>
+          <if test="password != null and password != ''">
+              password = #{password},
+          </if>
+      </set>
+      <where>
+          id = #{id}
+      </where>
+    </update>
+
+    <select id="selectListAll" resultType="com.boot.boot_cache.entity.User">
+      select id,username,password,create_time createTime from t_user
+    </select>
+    <select id="findUserById" resultType="com.boot.boot_cache.entity.User">
+        select id,username userName,password,create_time createTime from t_user where id = #{id}
+    </select>
+</mapper>
+

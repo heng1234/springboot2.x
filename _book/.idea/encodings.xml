@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot_async" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot_banner_yml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot_cache" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot_log_aop" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot_lombok" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot_mult_datasource" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot_mybatis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot_redis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot_task" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot_thymeleaf" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/inte_filter_servlet" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
