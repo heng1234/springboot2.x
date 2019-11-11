@@ -15,4 +15,7 @@
 * [Spring Boot 使用redis缓存](https://loren123.gitbook.io/hlvy/redis)
 * [Spring Boot ehcache](https://loren123.gitbook.io/hlvy/cache)
 * [springboot使用拦截器-过滤器-servlet-listener](https://loren123.gitbook.io/hlvy/ifs)
+* [springboot中使用异步调用(线程池)](https://loren123.gitbook.io/hlvy/async)
+* [springboot中配置定时任务(cron表达式)线程池方式](https://loren123.gitbook.io/hlvy/task)
+* [springboot发送邮箱](https://loren123.gitbook.io/hlvy/email)
 
